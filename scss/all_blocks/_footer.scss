@@ -1,0 +1,1199 @@
+footer {
+
+    .footer_bg {
+        position: absolute;
+        top: 3081px;
+        width: 1440px;
+
+
+    }
+
+    .sign {
+        position: relative;
+        width: 415px;
+        height: 96px;
+        top: 3183px;
+
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 48px;
+        /* or 100% */
+
+        letter-spacing: -2.14286px;
+
+        color: #FFFFFF;
+    }
+
+
+
+
+
+
+    .applediv {
+        width: 160px;
+        height: 56px;
+        background-color: $light_grey;
+        position: relative;
+        top: 3050px;
+        left: 750px;
+
+        .apple {
+            position: relative;
+            left: 16px;
+            top: 14px;
+        }
+
+
+        .on {
+            position: absolute;
+            height: 15px;
+            left: 52px;
+            right: -1.1%;
+            top: 1px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 10px;
+            line-height: 15px;
+            /* identical to box height */
+
+            letter-spacing: -0.446429px;
+
+            color: #495567;
+        }
+
+
+        .app {
+            position: absolute;
+            height: 24px;
+            left: 52px;
+            right: -1.1%;
+            top: 0px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 24px;
+            /* identical to box height, or 120% */
+
+            letter-spacing: -0.892857px;
+
+            color: #495567;
+        }
+
+    }
+
+    .playdiv {
+        width: 160px;
+        height: 56px;
+        background-color: $light_grey;
+        position: absolute;
+        top: 3225.5px;
+        left: 1093px;
+
+
+
+        .play {
+            position: relative;
+            left: 16px;
+            top: 14px;
+        }
+
+
+        .on {
+            position: absolute;
+            height: 15px;
+            left: 46px;
+            right: -1.1%;
+            top: 1px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 10px;
+            line-height: 15px;
+            /* identical to box height */
+
+            letter-spacing: -0.446429px;
+
+            color: #495567;
+        }
+
+
+        .app {
+            position: absolute;
+            height: 24px;
+            left: 45px;
+            right: -1.1%;
+            top: 0px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 24px;
+            /* identical to box height, or 120% */
+
+            letter-spacing: -0.892857px;
+
+            color: #495567;
+        }
+    }
+
+
+
+    .oxiri {
+        position: absolute;
+        width: 100%;
+        height: 96px;
+        position: relative;
+        top: 3120px;
+
+        background: #333A44;
+
+
+
+
+        nav {
+            margin-left: 140px;
+            width: 40%;
+            display: flex;
+            justify-content: space-between;
+
+
+            .brand {
+                margin-top: 30px;
+            }
+
+
+            .list {
+                margin-top: 35px;
+                display: flex;
+                width: 70%;
+                justify-content: space-around;
+                list-style-type: none;
+
+                .item {
+                    .link {
+                        text-decoration: none;
+                        color: $text-color;
+                    }
+
+                    .link:hover {
+                        color: #FCB72B;
+                    }
+
+                }
+            }
+        }
+    }
+
+    .jadva {
+        position: relative;
+        left: 550px;
+        top: 20px;
+        width: 30%;
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+
+        a {
+
+            .bi {
+
+                color: $main-color;
+            }
+
+            .bi:hover {
+                color: $light_grey;
+            }
+        }
+    }
+}
+
+.joy {
+    .footer {
+        position: absolute;
+        top: 3424px;
+    }
+
+    .songi {
+        background-color: #333A44;
+        width: 1440px;
+        height: 96px;
+        position: absolute;
+        top: 3700px;
+
+        .brand {
+            position: absolute;
+            width: 107.82px;
+            height: 28.56px;
+            left: 168.6px;
+            top: 35px;
+        }
+
+        .nav {
+            .list {
+                display: flex;
+                list-style-type: none;
+                justify-content: space-between;
+                width: 20%;
+                margin-left: 335px;
+                margin-top: 36px;
+
+                .item {
+                    .link {
+                        text-decoration: none;
+                        color: #939CAA;
+                    }
+                    .link:hover{
+                        color: $main-color;
+                    }
+                }
+            }
+        }
+
+        .icons {
+            display: flex;
+            justify-content: space-between;
+            width: 10%;
+            list-style-type: none;
+            margin-left: 1155px;
+            margin-top: -36px;
+
+            li {
+                a {
+
+                    color: $main-color;
+                }
+                a:hover{
+                    color: $light_grey;
+                }
+
+            }
+        }
+    }
+}
+
+
+
+
+
+.footer2 {
+
+    .footer_bg {
+        position: absolute;
+        top: 2900px;
+        width: 100%;
+    }
+
+    .sign {
+        position: relative;
+        width: 415px;
+        height: 96px;
+        top: 1660px;
+
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 48px;
+        /* or 100% */
+
+        letter-spacing: -2.14286px;
+
+        color: #fff;
+    }
+
+
+
+
+
+
+    .applediv {
+        width: 160px;
+        height: 56px;
+        background-color: $light_grey;
+        position: relative;
+        top: 1550px;
+        left: 750px;
+
+        .apple {
+            position: relative;
+            left: 16px;
+            top: 14px;
+        }
+
+
+        .on {
+            position: absolute;
+            height: 15px;
+            left: 52px;
+            right: -1.1%;
+            top: 20px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 10px;
+            line-height: 15px;
+            /* identical to box height */
+
+            letter-spacing: -0.446429px;
+
+            color: #495567;
+        }
+
+
+        .app {
+            position: absolute;
+            height: 24px;
+            left: 52px;
+            right: -1.1%;
+            top: -10px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 24px;
+            /* identical to box height, or 120% */
+
+            letter-spacing: -0.892857px;
+
+            color: #495567;
+        }
+
+    }
+
+    .playdiv {
+        width: 160px;
+        height: 56px;
+        background-color: $light_grey;
+        position: absolute;
+        top: 2998px;
+        left: 1093px;
+
+
+
+        .play {
+            position: relative;
+            left: 16px;
+            top: 14px;
+        }
+
+
+        .on {
+            position: absolute;
+            height: 15px;
+            left: 46px;
+            right: -1.1%;
+            top: 20px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 10px;
+            line-height: 15px;
+            /* identical to box height */
+
+            letter-spacing: -0.446429px;
+
+            color: #495567;
+        }
+
+
+        .app {
+            position: absolute;
+            height: 24px;
+            left: 45px;
+            right: -1.1%;
+            top: -10px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 24px;
+            /* identical to box height, or 120% */
+
+            letter-spacing: -0.892857px;
+
+            color: #495567;
+        }
+    }
+
+
+
+    .oxiri {
+        position: absolute;
+        width: 1440px;
+        height: 96px;
+        position: relative;
+        top: 1660px;
+
+        background: #333A44;
+
+
+
+
+        nav {
+
+            width: 40%;
+            display: flex;
+            justify-content: space-between;
+
+
+
+
+            .list {
+                margin-top: 35px;
+                display: flex;
+                width: 70%;
+                justify-content: space-around;
+                list-style-type: none;
+
+                .item {
+                    .link {
+                        text-decoration: none;
+                        color: $text-color;
+                    }
+
+                    .link:hover {
+                        color: #FCB72B;
+                    }
+
+                }
+            }
+        }
+    }
+
+    .jadva {
+        position: absolute !important;
+        left: 1000px !important;
+        top: 35px !important;
+        width: 10% !important;
+        display: flex !important;
+        justify-content: space-between !important;
+        list-style-type: none !important;
+
+        a {
+
+            .bi {
+
+                color: $main-color  !important;
+            }
+
+            .bi:hover {
+                color: $light_grey  !important;
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer_location {
+    .footer_bg {
+        top: 1299px;
+
+    }
+
+    .sign {
+        position: absolute;
+        top: 1360px;
+    }
+
+    .applediv {
+        position: absolute;
+        top: 1421px;
+        left: 900px;
+
+        .apple {
+            position: relative;
+            left: 16px;
+            top: 14px;
+        }
+
+
+        .on {
+            position: absolute;
+            left: 52px;
+            top: 1px;
+        }
+
+
+        .app {
+            position: absolute;
+            left: 52px;
+            top: 0px;
+        }
+
+    }
+
+    .playdiv {
+        position: absolute;
+        top: 1421px;
+        left: 1093px;
+
+
+
+        .play {
+            position: relative;
+            left: 16px;
+            top: 14px;
+        }
+
+
+        .on {
+            position: absolute;
+            top: 1px;
+        }
+
+
+        .app {
+            position: absolute;
+
+            top: 0px;
+        }
+    }
+
+
+
+    .oxiri {
+        position: absolute;
+        top: 1586px;
+
+    }
+}
+
+
+.jadva {
+
+    left: 550px;
+    top: 20px;
+
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+    .footer_bg {
+        position: relative;
+        top: 3900px;
+        width: 768px;
+        height: 300px;
+        margin-top: 800px;
+
+    }
+
+    .sign {
+        position: relative;
+        width: 457px;
+        height: 96px;
+        top: 1180px;
+        left: 160px;
+        margin-top: 750px;
+
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 48px;
+        /* or 100% */
+        text-align: center;
+
+        letter-spacing: -2.14286px;
+
+        color: #ff0000;
+    }
+
+
+
+
+
+
+    .applediv {
+        width: 160px;
+        height: 56px;
+        background-color: $light_grey;
+        position: relative;
+        left: -256px;
+        top: 4243px;
+        margin-top: 150px;
+        margin-left: -550px;
+
+        .apple {
+            position: relative;
+            left: 16px;
+            top: 14px;
+        }
+
+
+        .on {
+            position: absolute;
+            height: 15px;
+            left: 52px;
+            right: -1.1%;
+            top: 1px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 10px;
+            line-height: 15px;
+            /* identical to box height */
+
+            letter-spacing: -0.446429px;
+
+            color: #495567;
+        }
+
+
+        .app {
+            position: absolute;
+            height: 24px;
+            left: 52px;
+            right: -1.1%;
+            top: 0px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 24px;
+            /* identical to box height, or 120% */
+
+            letter-spacing: -0.892857px;
+
+            color: #495567;
+        }
+
+    }
+
+    .playdiv {
+        width: 160px;
+        height: 56px;
+        background-color: $light_grey;
+        position: absolute;
+        top: 3225.5px;
+        left: 1093px;
+        margin-left: -700px;
+        margin-top: 820px;
+
+
+
+        .play {
+            position: relative;
+            left: 16px;
+            top: 14px;
+        }
+
+
+        .on {
+            position: absolute;
+            height: 15px;
+            left: 46px;
+            right: -1.1%;
+            top: 1px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 10px;
+            line-height: 15px;
+            /* identical to box height */
+
+            letter-spacing: -0.446429px;
+
+            color: #495567;
+        }
+
+
+        .app {
+            position: absolute;
+            height: 24px;
+            left: 45px;
+            right: -1.1%;
+            top: 0px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 24px;
+            /* identical to box height, or 120% */
+
+            letter-spacing: -0.892857px;
+
+            color: #495567;
+        }
+    }
+
+
+
+    .oxiri {
+        position: absolute;
+        width: 100%;
+        height: 96px;
+        position: relative;
+        top: 0px;
+        margin-top: -50px;
+
+        background: #333A44;
+
+
+
+
+        .link_about {
+            position: absolute;
+            height: 25px;
+            left: 206px;
+            right: 81.53%;
+            top: 36px;
+            text-decoration: none;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 25px;
+            /* identical to box height, or 167% */
+
+
+            color: #939CAA;
+        }
+
+        .link_loka {
+            position: absolute;
+            height: 25px;
+            left: 284px;
+            right: 38.96%;
+            top: calc(50% - 25px/2);
+            text-decoration: none;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 25px;
+            /* identical to box height, or 167% */
+
+
+            color: #939CAA;
+        }
+
+        .link_care {
+            position: absolute;
+            height: 25px;
+            left: 390px;
+            right: 0%;
+            top: calc(50% - 25px/2);
+            text-decoration: none;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 25px;
+            /* identical to box height, or 167% */
+
+
+            color: #939CAA;
+        }
+
+        .icon_face {
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: -300px;
+            top: 0px;
+        }
+
+        .icon_twi {
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: -250px;
+            top: 0px;
+        }
+
+        .icon_insta {
+
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: -200px;
+            top: 0px;
+        }
+
+        .brand {
+            margin-top: -10px;
+        }
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .footer_bg {
+        margin-top: 1100px;
+        width: 768px;
+        height: 300px;
+
+    }
+
+    .sign {
+        position: absolute;
+        width: 311px;
+        height: 64px;
+        left: 32px;
+        top: 4288px;
+
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 32px;
+        /* or 100% */
+
+        text-align: center;
+        letter-spacing: -1.42857px;
+
+        color: #FFFFFF;
+    }
+
+
+
+
+
+
+    .applediv {
+        width: 160px;
+        height: 56px;
+        background-color: $light_grey;
+        position: relative;
+        top: 3050px;
+        left: 750px;
+
+        .apple {
+            position: relative;
+            left: 16px;
+            top: 14px;
+        }
+
+
+        .on {
+            position: absolute;
+            height: 15px;
+            left: 52px;
+            right: -1.1%;
+            top: 1px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 10px;
+            line-height: 15px;
+            /* identical to box height */
+
+            letter-spacing: -0.446429px;
+
+            color: #495567;
+        }
+
+
+        .app {
+            position: absolute;
+            height: 24px;
+            left: 52px;
+            right: -1.1%;
+            top: 0px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 24px;
+            /* identical to box height, or 120% */
+
+            letter-spacing: -0.892857px;
+
+            color: #495567;
+        }
+
+    }
+
+    .playdiv {
+        width: 160px;
+        height: 56px;
+        background-color: $light_grey;
+        position: absolute;
+        top: 3225.5px;
+        left: 1093px;
+
+
+
+        .play {
+            position: relative;
+            left: 16px;
+            top: 14px;
+        }
+
+
+        .on {
+            position: absolute;
+            height: 15px;
+            left: 46px;
+            right: -1.1%;
+            top: 1px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 10px;
+            line-height: 15px;
+            /* identical to box height */
+
+            letter-spacing: -0.446429px;
+
+            color: #495567;
+        }
+
+
+        .app {
+            position: absolute;
+            height: 24px;
+            left: 45px;
+            right: -1.1%;
+            top: 0px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 24px;
+            /* identical to box height, or 120% */
+
+            letter-spacing: -0.892857px;
+
+            color: #495567;
+        }
+    }
+
+
+
+    .oxiri {
+        width: 375px;
+        height: 96px;
+        margin-top: 900px;
+
+        background: #333A44;
+
+
+
+
+        .link_about {
+            position: absolute;
+            height: 25px;
+            left: 206px;
+            right: 81.53%;
+            top: 36px;
+            text-decoration: none;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 25px;
+            /* identical to box height, or 167% */
+
+
+            color: #939CAA;
+        }
+
+        .link_loka {
+            position: absolute;
+            height: 25px;
+            left: 284px;
+            right: 38.96%;
+            top: calc(50% - 25px/2);
+            text-decoration: none;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 25px;
+            /* identical to box height, or 167% */
+
+
+            color: #939CAA;
+        }
+
+        .link_care {
+            position: absolute;
+            height: 25px;
+            left: 390px;
+            right: 0%;
+            top: calc(50% - 25px/2);
+            text-decoration: none;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 25px;
+            /* identical to box height, or 167% */
+
+
+            color: #939CAA;
+        }
+
+        .icon_face {
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: -300px;
+            top: 0px;
+        }
+
+        .icon_twi {
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: -250px;
+            top: 0px;
+        }
+
+        .icon_insta {
+
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: -200px;
+            top: 0px;
+        }
+    }
+
+    .footer {
+
+        .footer_bg {
+            position: absolute;
+            margin-top: 7044px;
+            width: 100%;
+        }
+
+        .sign {
+            position: relative;
+            top: 1280px;
+        }
+
+
+
+
+
+
+        .applediv {
+            position: relative;
+            top: 1200px;
+            left: 750px;
+
+            .apple {
+                position: relative;
+                left: 16px;
+                top: 14px;
+            }
+
+
+            .on {
+                position: absolute;
+                left: 52px;
+                top: 30px;
+            }
+
+
+            .app {
+                position: absolute;
+                left: 52px;
+                top: 10px;
+            }
+
+        }
+
+        .playdiv {
+            position: absolute;
+            top: 3553px;
+            left: 1093px;
+
+
+
+            .play {
+                position: relative;
+                left: 16px;
+                top: 14px;
+            }
+
+
+            .on {
+                position: absolute;
+                left: 46px;
+                top: 30px;
+            }
+
+
+            .app {
+                position: absolute;
+                left: 45px;
+                top: 10px;
+            }
+        }
+
+
+
+        .oxiri {
+            position: relative;
+            top: 1300px;
+
+
+
+
+        }
+
+        .jadva {
+            position: absolute;
+            left: 1000px;
+            top: 35px;
+            width: 10%;
+            display: flex;
+            justify-content: space-between;
+            list-style-type: none;
+
+            a {
+
+                .bi {
+
+                    color: $main-color;
+                }
+
+                .bi:hover {
+                    color: $light_grey;
+                }
+            }
+        }
+    }
+}

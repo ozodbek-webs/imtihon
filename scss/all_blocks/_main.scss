@@ -1,0 +1,3399 @@
+main {
+
+
+
+    .oltin_chiziq {
+        position: absolute;
+        width: 202.5px;
+        height: 12px;
+        left: 0.5px;
+        top: 349px;
+        background-color: $main-color;
+    }
+
+    .scotter {
+        position: absolute;
+        width: 500px;
+        height: 112px;
+        top: 140px;
+        left: 165px;
+
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 56px;
+        /* or 100% */
+
+        letter-spacing: -2.5px;
+        font-family: 'Space Mono', monospace;
+
+        color: #FFFFFF;
+    }
+
+    .scoot {
+        position: absolute;
+        width: 405px;
+        height: 100px;
+        left: 260px;
+        top: 300px;
+
+        font-family: 'Lexend Deca';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        /* or 167% */
+
+
+        color: #FFFFFF;
+    }
+
+    .korsatkich {
+        position: absolute;
+        width: 447px;
+        height: 138px;
+        left: 705px;
+        top: 342px;
+
+    }
+
+    .moto {
+        position: absolute;
+        width: 100%;
+        z-index: -1;
+    }
+
+    .moto-btn {
+        position: absolute;
+        width: 180px;
+        height: 50px;
+        background-color: $main-color;
+        border: 1px solid $main-color;
+        left: 260px;
+        top: 445px;
+    }
+
+    .moto-btn:hover {
+        background-color: #fff;
+        color: $main-color;
+        cursor: pointer;
+    }
+
+    .kulrang {
+        position: absolute;
+        width: 974px;
+        height: 20px;
+        left: 0px;
+        top: 954px;
+
+        background-color: $light_grey;
+    }
+
+    .oltin_doira {
+        width: 96px;
+        height: 96px;
+        background-color: $main-color;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+        position: absolute;
+        top: 910px;
+        left: 165px;
+
+        img {
+            position: relative;
+            left: 30px;
+            top: 20px;
+        }
+    }
+
+    .joy {
+        left: 545px;
+
+        img {
+            top: 30px;
+        }
+    }
+
+    .lash {
+        left: 925px;
+
+        img {
+            top: 30px;
+        }
+    }
+
+    .card1 {
+        h4 {
+            position: absolute;
+            width: 350px;
+            height: 28px;
+            left: 165px;
+            top: 1042px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 28px;
+            /* identical to box height, or 117% */
+
+            letter-spacing: -1.07143px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 350px;
+            height: 100px;
+            left: 165px;
+            top: 1097px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #939CAA;
+        }
+    }
+
+    .card3 {
+        h4 {
+            position: absolute;
+            width: 350px;
+            height: 28px;
+            left: 925px;
+            top: 1042px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 28px;
+            /* identical to box height, or 117% */
+
+            letter-spacing: -1.07143px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 350px;
+            height: 100px;
+            left: 925px;
+            top: 1097px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #939CAA;
+        }
+    }
+
+    .card2 {
+        h4 {
+            position: absolute;
+            width: 350px;
+            height: 28px;
+            left: 545px;
+            top: 1042px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 28px;
+            /* identical to box height, or 117% */
+
+            letter-spacing: -1.07143px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 350px;
+            height: 100px;
+            left: 545px;
+            top: 1097px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #939CAA;
+        }
+    }
+
+    .card4 {
+        h2 {
+            position: absolute;
+            width: 445px;
+            height: 96px;
+            left: 165px;
+            top: 1463px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 48px;
+            /* or 100% */
+
+            letter-spacing: -2.14286px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 445px;
+            height: 100px;
+            left: 165px;
+            top: 1610px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #939CAA;
+        }
+
+        button {
+            width: 180px;
+            height: 50px;
+            background-color: $main-color;
+            position: absolute;
+            top: 1730px;
+            left: 165px;
+            border: 1px solid $main-color;
+        }
+
+        button:hover {
+            background-color: #fff;
+            color: $main-color;
+            cursor: pointer;
+        }
+    }
+
+    .qimirlatamiz {
+        .bola {
+            position: absolute;
+
+            left: 1339px;
+            top: 1397px;
+            width: 398px;
+            height: 398px;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            -o-border-radius: 50%;
+            animation-iteration-count: 2;
+            animation-direction: normal;
+            animation-fill-mode: forwards;
+            animation-name: rasmqimilla;
+            animation-timing-function: linear;
+            animation-duration: 30s;
+            animation-delay: 5s;
+        }
+
+
+        @keyframes rasmqimilla {
+            from {
+
+                left: 1339px;
+                top: 1397px;
+            }
+
+            to {
+
+                left: 843px;
+                top: 1444px;
+            }
+        }
+
+        .kor {
+            position: absolute;
+            width: 740.06px;
+            height: 150.44px;
+            left: 699.91px;
+            top: 1696.5px;
+        }
+    }
+
+
+    .card5 {
+        h2 {
+            position: absolute;
+            width: 445px;
+            height: 96px;
+            left: 830px;
+            top: 1868px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 48px;
+            /* or 100% */
+
+            letter-spacing: -2.14286px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 445px;
+            height: 100px;
+            left: 830px;
+            top: 2000px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #939CAA;
+        }
+
+        button {
+            width: 180px;
+            height: 50px;
+            background-color: $main-color;
+            position: absolute;
+            top: 2128px;
+            left: 830px;
+            border: 1px solid $main-color;
+        }
+
+        button:hover {
+            background-color: #fff;
+            color: $main-color;
+            cursor: pointer;
+        }
+    }
+
+
+    .qimirlatamiz2 {
+        .kocha {
+            position: absolute;
+
+            width: 392px;
+            height: 392px;
+            left: 165px;
+            top: 1859px;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            -o-border-radius: 50%;
+            animation-iteration-count: 2;
+            animation-direction: normal;
+            animation-fill-mode: forwards;
+            animation-name: rasmqimilla2;
+            animation-timing-function: linear;
+            animation-duration: 30s;
+            animation-delay: 5s;
+        }
+
+        .kors {
+            position: absolute;
+            width: 735px;
+            height: 138px;
+            left: -385px;
+            top: 2010px;
+        }
+
+
+        @keyframes rasmqimilla2 {
+            from {
+                left: -344px;
+                top: 2002px;
+            }
+
+            to {
+                left: 165px;
+                top: 1859px;
+            }
+        }
+
+    }
+
+
+
+
+
+    .card6 {
+        h2 {
+            position: absolute;
+            width: 445px;
+            height: 96px;
+            left: 165px;
+            top: 2373px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 48px;
+            /* or 100% */
+
+            letter-spacing: -2.14286px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 445px;
+            height: 100px;
+            left: 165px;
+            top: 2510px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #939CAA;
+        }
+
+        button {
+            width: 180px;
+            height: 50px;
+            background-color: $main-color;
+            position: absolute;
+            top: 2633px;
+            left: 165px;
+            border: 1px solid $main-color;
+        }
+
+        button:hover {
+            background-color: #fff;
+            color: $main-color;
+            cursor: pointer;
+        }
+    }
+
+
+
+    .qimirlatamiz3 {
+        .hamyon {
+            position: absolute;
+
+            left: 839px;
+            top: 2350px;
+            width: 398px;
+            height: 398px;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            -o-border-radius: 50%;
+            animation-iteration-count: 2;
+            animation-direction: normal;
+            animation-fill-mode: forwards;
+            animation-name: rasmqimilla3;
+            animation-timing-function: linear;
+            animation-duration: 30s;
+            animation-delay: 5s;
+        }
+
+
+        @keyframes rasmqimilla3 {
+            from {
+                left: 1339px;
+                top: 2350px;
+            }
+
+            to {
+                left: 839px;
+                top: 2350px;
+            }
+        }
+
+        .korsa {
+            position: absolute;
+            width: 740.06px;
+            height: 150.44px;
+            left: 1085px;
+            top: 2592px;
+        }
+    }
+
+    .about {
+        position: relative;
+        top: 60px;
+    }
+
+
+    .card7 {
+        h3 {
+            position: absolute;
+            width: 445px;
+            height: 96px;
+            left: 165px;
+            top: 541px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 48px;
+            /* or 100% */
+
+            letter-spacing: -2.14286px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 445px;
+            height: 75px;
+            left: 165px;
+            top: 681px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #939CAA;
+        }
+
+        img {
+            position: absolute;
+            width: 580px;
+            height: 345px;
+            left: 805px;
+            top: 450px;
+        }
+    }
+
+    .card8 {
+        h3 {
+            position: absolute;
+            width: 445px;
+            height: 96px;
+            left: 830px;
+            top: 1106px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 48px;
+            /* or 100% */
+
+            letter-spacing: -2.14286px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 445px;
+            height: 75px;
+            left: 830px;
+            top: 1246px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #939CAA;
+        }
+
+        img {
+            position: absolute;
+            width: 520px;
+            height: 345px;
+            left: 0px;
+            top: 1050px;
+        }
+    }
+
+    h2 {
+        position: absolute;
+        width: 540px;
+        height: 48px;
+        left: 450px;
+        top: 1546px;
+
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 48px;
+        /* identical to box height, or 100% */
+
+        text-align: center;
+        letter-spacing: -2.14286px;
+
+        color: #495567;
+    }
+
+    .card9 {
+        img {
+            position: absolute;
+            width: 350px;
+            height: 350px;
+            left: 165px;
+            top: 1642px;
+        }
+
+        h3 {
+            position: absolute;
+            width: 350px;
+            height: 28px;
+            left: 165px;
+            top: 2024px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 28px;
+            /* identical to box height, or 117% */
+
+            text-align: center;
+            letter-spacing: -1.07143px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 350px;
+            height: 75px;
+            left: 165px;
+            top: 2079px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+            text-align: center;
+
+            color: #939CAA;
+
+        }
+    }
+
+    .left {
+        img {
+            left: 562px;
+        }
+
+        h3 {
+            left: 545px;
+        }
+
+        p {
+            left: 545px;
+        }
+
+    }
+
+    .right {
+        img {
+            left: 962px;
+        }
+
+        h3 {
+            left: 925px;
+        }
+
+        p {
+            left: 925px;
+        }
+    }
+
+    .faqs {
+        text-align: center;
+        margin-top: 2000px;
+    }
+
+    .card10 {
+        h3 {
+            position: absolute;
+            width: 350px;
+            height: 48px;
+            left: 165px;
+            top: 2386px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 48px;
+            /* identical to box height, or 120% */
+
+            letter-spacing: -1.78571px;
+
+            color: #495567;
+        }
+
+        .card-a {
+            position: absolute;
+            width: 730px;
+            height: 192px;
+            left: 545px;
+            top: 2386px;
+
+            background: #d5e7fe;
+            overflow: hidden;
+
+            h4 {
+                position: relative;
+                height: 28px;
+                left: 40px;
+                right: 45.23%;
+                top: 32px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 650px;
+                height: 75px;
+                left: 40px;
+                top: 84px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #495567;
+            }
+
+
+            .joylash {
+                position: absolute;
+                left: 674px;
+                right: 0%;
+                top: 40px;
+                bottom: 7.14%;
+                transform: matrix(1, 0, 0, -1, 0, 0);
+            }
+        }
+
+        .card-a:hover {
+            background-color: #FFF4DF;
+        }
+
+
+        .card-b {
+            position: absolute;
+            width: 730px;
+            height: 92px;
+            left: 545px;
+            top: 2593px;
+
+            background: #d5e7fe;
+            overflow: hidden;
+
+            h4 {
+                position: relative;
+                height: 28px;
+                left: 40px;
+                right: 45.23%;
+                top: 32px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+
+            .joylash {
+                position: absolute;
+                left: 674px;
+                right: 0%;
+                top: 40px;
+                bottom: 7.14%;
+            }
+        }
+
+        .card-b:hover {
+            background-color: #FFF4DF;
+        }
+
+        .card-c {
+            position: absolute;
+            width: 730px;
+            height: 92px;
+            left: 545px;
+            top: 2701px;
+
+            background: #d5e7fe;
+            overflow: hidden;
+
+            h4 {
+                position: relative;
+                height: 28px;
+                left: 40px;
+                right: 45.23%;
+                top: 32px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+
+            .joylash {
+                position: absolute;
+                left: 674px;
+                right: 0%;
+                top: 40px;
+                bottom: 7.14%;
+            }
+        }
+
+        .card-c:hover {
+            background-color: #FFF4DF;
+        }
+    }
+
+    .card11 {
+        h3 {
+            position: absolute;
+            width: 350px;
+            height: 48px;
+            left: 165px;
+            top: 2857px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 48px;
+            /* identical to box height, or 120% */
+
+            letter-spacing: -1.78571px;
+
+            color: #495567;
+        }
+
+        .card-a {
+            position: absolute;
+            width: 730px;
+            height: 192px;
+            left: 545px;
+            top: 2857px;
+
+            background: #d5e7fe;
+            overflow: hidden;
+
+            h4 {
+                position: relative;
+                height: 28px;
+                left: 40px;
+                right: 45.23%;
+                top: 32px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 650px;
+                height: 75px;
+                left: 40px;
+                top: 84px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #495567;
+            }
+
+
+            .joylash {
+                position: absolute;
+                left: 674px;
+                right: 0%;
+                top: 40px;
+                bottom: 7.14%;
+                transform: matrix(1, 0, 0, -1, 0, 0);
+            }
+        }
+
+        .card-a:hover {
+            background-color: #FFF4DF;
+        }
+
+
+        .card-b {
+            position: absolute;
+            width: 730px;
+            height: 92px;
+            left: 545px;
+            top: 3064px;
+
+            background: #d5e7fe;
+            overflow: hidden;
+
+            h4 {
+                position: relative;
+                height: 28px;
+                left: 40px;
+                right: 45.23%;
+                top: 32px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+
+            .joylash {
+                position: absolute;
+                left: 674px;
+                right: 0%;
+                top: 40px;
+                bottom: 7.14%;
+            }
+        }
+
+        .card-b:hover {
+            background-color: #FFF4DF;
+        }
+
+        .card-c {
+            position: absolute;
+            width: 730px;
+            height: 92px;
+            left: 545px;
+            top: 3172px;
+
+            background: #d5e7fe;
+            overflow: hidden;
+
+            h4 {
+                position: relative;
+                height: 28px;
+                left: 40px;
+                right: 45.23%;
+                top: 32px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+
+            .joylash {
+                position: absolute;
+                left: 674px;
+                right: 0%;
+                top: 40px;
+                bottom: 7.14%;
+            }
+        }
+
+        .card-c:hover {
+            background-color: #FFF4DF;
+        }
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    main {
+
+
+
+        .oltin_chiziq {
+            position: absolute;
+            width: 202.5px;
+            height: 12px;
+            left: 0.5px;
+            top: 349px;
+            background-color: $main-color;
+            display: none;
+        }
+
+        .scotter {
+            position: absolute;
+            left: 70px;
+            width: 573px;
+            height: 112px;
+            top: 140px;
+            text-align: center;
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 56px;
+            line-height: 56px;
+            /* or 100% */
+
+            letter-spacing: -2.5px;
+            font-family: 'Space Mono', monospace;
+
+            color: #FFFFFF;
+        }
+
+        .scoot {
+            position: absolute;
+            width: 573px;
+            height: 73px;
+            left: 75px;
+            top: 300px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            text-align: center;
+            /* or 167% */
+
+
+            color: #FFFFFF;
+        }
+
+        .korsatkich {
+            position: absolute;
+            width: 447px;
+            height: 138px;
+            left: -127px;
+            top: 563px;
+
+        }
+
+        .moto {
+            position: absolute;
+            height: 850px;
+            border-radius: 0px;
+
+            z-index: -1;
+        }
+
+        .moto-btn {
+            position: absolute;
+            width: 180px;
+            height: 50px;
+            background-color: $main-color;
+            border: 1px solid $main-color;
+            left: 260px;
+            top: 445px;
+        }
+
+        .moto-btn:hover {
+            background-color: #fff;
+            color: $main-color;
+            cursor: pointer;
+        }
+
+        .kulrang {
+            position: absolute;
+            width: 20px;
+            height: 550px;
+            left: 141px;
+            top: 850px;
+
+            background-color: $light_grey;
+        }
+
+        .oltin_doira {
+            width: 96px;
+            height: 96px;
+            background-color: $main-color;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            -o-border-radius: 50%;
+            position: absolute;
+            top: 910px;
+            left: 97px;
+
+            img {
+                position: relative;
+                left: 30px;
+                top: 20px;
+            }
+        }
+
+        .joy {
+            left: 97px;
+            top: 1138px;
+
+            img {
+                top: 30px;
+            }
+        }
+
+        .lash {
+            top: 1358px;
+
+            img {
+                top: 30px;
+            }
+        }
+
+        .card1 {
+            h4 {
+                position: absolute;
+                width: 350px;
+                height: 28px;
+                left: 272px;
+                top: 880px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 398px;
+                height: 75px;
+                left: 272px;
+                top: 923px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #939CAA;
+            }
+        }
+
+        .card3 {
+            h4 {
+                position: absolute;
+                width: 350px;
+                height: 28px;
+                left: 272px;
+                top: 1330px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 350px;
+                height: 100px;
+                left: 272px;
+                top: 1380px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #939CAA;
+            }
+        }
+
+        .card2 {
+            h4 {
+                position: absolute;
+                width: 398px;
+                height: 28px;
+                left: 272px;
+                top: 1100px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 350px;
+                height: 100px;
+                left: 272px;
+                top: 1150px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #939CAA;
+            }
+        }
+
+        .card4 {
+            h2 {
+                position: absolute;
+                width: 447px;
+                height: 96px;
+                left: 155px;
+                top: 1984px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 48px;
+                /* or 100% */
+
+                letter-spacing: -2.14286px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 573px;
+                height: 75px;
+                left: 75px;
+                top: 2120px;
+                text-align: center;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #939CAA;
+            }
+
+            button {
+                width: 180px;
+                height: 50px;
+                background-color: $main-color;
+                position: absolute;
+                top: 2235px;
+                left: 294px;
+                border: 1px solid $main-color;
+            }
+
+            button:hover {
+                background-color: #fff;
+                color: $main-color;
+                cursor: pointer;
+            }
+        }
+
+        .qimirlatamiz {
+            .bola {
+                position: absolute;
+
+                left: 200px;
+                top: 1550px;
+                width: 398px;
+                height: 398px;
+                border-radius: 50%;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                -ms-border-radius: 50%;
+                -o-border-radius: 50%;
+                animation-iteration-count: 2;
+                animation-direction: normal;
+                animation-fill-mode: forwards;
+                animation-name: rasmqimilla;
+                animation-timing-function: linear;
+                animation-duration: 30s;
+                animation-delay: 5s;
+            }
+
+
+            @keyframes rasmqimilla {
+                from {
+
+                    left: 600px;
+                    top: 1550px;
+                }
+
+                to {
+
+                    left: 200px;
+                    top: 1550px;
+                }
+            }
+
+            .kor {
+                position: absolute;
+                width: 740.06px;
+                height: 150.44px;
+                left: 77px;
+                top: 1850px;
+            }
+        }
+
+
+        .card5 {
+            h2 {
+                position: absolute;
+                width: 457px;
+                height: 96px;
+                left: 155px;
+                top: 2800px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 48px;
+                /* or 100% */
+
+                letter-spacing: -2.14286px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 573px;
+                height: 75px;
+                left: 97px;
+                top: 2925px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                text-align: center;
+                /* or 167% */
+
+
+                color: #939CAA;
+            }
+
+            button {
+                width: 180px;
+                height: 50px;
+                background-color: $main-color;
+                position: absolute;
+                top: 3025px;
+                left: 294px;
+                border: 1px solid $main-color;
+            }
+
+            button:hover {
+                background-color: #fff;
+                color: $main-color;
+                cursor: pointer;
+            }
+        }
+
+
+        .qimirlatamiz2 {
+            .kocha {
+                position: absolute;
+
+                width: 392px;
+                height: 392px;
+                left: 180px;
+                top: 2400px;
+                border-radius: 50%;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                -ms-border-radius: 50%;
+                -o-border-radius: 50%;
+                animation-iteration-count: 2;
+                animation-direction: normal;
+                animation-fill-mode: forwards;
+                animation-name: rasmqimilla2;
+                animation-timing-function: linear;
+                animation-duration: 30s;
+                animation-delay: 5s;
+            }
+
+            .kors {
+                position: absolute;
+                width: 735px;
+                height: 138px;
+                left: -385px;
+                top: 2424px;
+            }
+
+
+            @keyframes rasmqimilla2 {
+                from {
+                    left: -344px;
+                    top: 2400px;
+                }
+
+                to {
+                    left: 180px;
+                    top: 2400px;
+                }
+            }
+
+        }
+
+
+
+
+
+        .card6 {
+            h2 {
+                position: absolute;
+                width: 445px;
+                height: 96px;
+                left: 165px;
+                top: 3558px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 48px;
+                /* or 100% */
+
+                letter-spacing: -2.14286px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 573px;
+                height: 75px;
+
+                left: 97px;
+                top: 3694px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+                text-align: center;
+
+
+                color: #939CAA;
+            }
+
+            button {
+                width: 180px;
+                height: 50px;
+                background-color: $main-color;
+                position: absolute;
+                top: 3809px;
+                left: 294px;
+                border: 1px solid $main-color;
+            }
+
+            button:hover {
+                background-color: #fff;
+                color: $main-color;
+                cursor: pointer;
+            }
+        }
+
+
+
+        .qimirlatamiz3 {
+            .hamyon {
+                position: absolute;
+
+                left: 176px;
+                top: 3149px;
+                width: 398px;
+                height: 398px;
+                border-radius: 50%;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                -ms-border-radius: 50%;
+                -o-border-radius: 50%;
+                animation-iteration-count: 2;
+                animation-direction: normal;
+                animation-fill-mode: forwards;
+                animation-name: rasmqimilla3;
+                animation-timing-function: linear;
+                animation-duration: 30s;
+                animation-delay: 5s;
+            }
+
+
+            @keyframes rasmqimilla3 {
+                from {
+                    left: 673px;
+                    top: 3149px;
+                }
+
+                to {
+                    left: 176px;
+                    top: 3149px;
+                }
+            }
+
+            .korsa {
+                position: absolute;
+                width: 740.06px;
+                height: 150.44px;
+                left: 419px;
+                top: 3200px;
+            }
+        }
+
+        .about {
+            position: relative;
+            top: 60px;
+            height: 200px;
+        }
+
+
+        .card7 {
+            h3 {
+                position: absolute;
+                width: 457px;
+                height: 96px;
+                left: 155px;
+                top: 941px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 48px;
+                /* or 100% */
+
+                text-align: center;
+                letter-spacing: -2.14286px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 573px;
+                height: 50px;
+                left: 97px;
+                top: 1077px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+            }
+
+            img {
+                position: absolute;
+                width: 668px;
+                height: 445px;
+                left: 100px;
+                top: 440px;
+            }
+        }
+
+        .card8 {
+            h3 {
+                position: absolute;
+                width: 457px;
+                height: 96px;
+                left: 155px;
+                top: 1748px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 48px;
+                /* or 100% */
+
+                text-align: center;
+                letter-spacing: -2.14286px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 573px;
+                height: 50px;
+                left: 97px;
+                top: 1884px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+
+            }
+
+            img {
+                position: absolute;
+                width: 550px;
+                height: 400px;
+                left: -11px;
+                top: 1204px;
+            }
+        }
+
+        h2 {
+            position: absolute;
+            width: 457px;
+            height: 48px;
+            left: 155px;
+            top: 2054px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 48px;
+            /* identical to box height, or 100% */
+
+            text-align: center;
+            letter-spacing: -2.14286px;
+
+            color: #495567;
+
+        }
+
+        .card9 {
+            img {
+                position: absolute;
+                width: 350px;
+                height: 350px;
+                left: 200px;
+                top: 2189px;
+            }
+
+            h3 {
+                position: absolute;
+                width: 457px;
+                height: 28px;
+                left: 155px;
+                top: 2534px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                text-align: center;
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+
+            }
+
+            p {
+                position: absolute;
+                width: 457px;
+                height: 75px;
+                left: 155px;
+                top: 2589px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+
+            }
+        }
+
+        .left {
+
+
+            img {
+                left: 200px;
+                top: 2641px;
+            }
+
+            h3 {
+                position: absolute;
+                width: 457px;
+                height: 28px;
+                left: 155px;
+                top: 3046px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                text-align: center;
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 457px;
+                height: 50px;
+                left: 155px;
+                top: 3101px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+            }
+
+        }
+
+        .right {
+            img {
+                left: 200px;
+                top: 3102px;
+            }
+
+            h3 {
+                position: absolute;
+                width: 457px;
+                height: 28px;
+                left: 155px;
+                top: 3533px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                text-align: center;
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 457px;
+                height: 50px;
+                left: 155px;
+                top: 3588px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+            }
+        }
+
+        .faqs {
+            position: absolute;
+            width: 457px;
+            height: 48px;
+            left: 155px;
+            top: 1656px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 48px;
+            /* identical to box height, or 100% */
+
+            text-align: center;
+            letter-spacing: -2.14286px;
+
+            color: #495567;
+        }
+
+        .card10 {
+            h3 {
+                position: absolute;
+                width: 350px;
+                height: 48px;
+                left: 209px;
+                top: 3730px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 40px;
+                line-height: 48px;
+                /* identical to box height, or 120% */
+
+                text-align: center;
+                letter-spacing: -1.78571px;
+
+                color: #495567;
+            }
+
+            .card-a {
+                position: absolute;
+                width: 689px;
+                height: 191px;
+                left: 39px;
+                top: 3800px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+                p {
+                    position: absolute;
+                    width: 650px;
+                    height: 75px;
+                    left: 40px;
+                    top: 84px;
+
+                    font-family: 'Lexend Deca';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 15px;
+                    line-height: 25px;
+                    /* or 167% */
+
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: calc(50% - 16px/2 + 300.5px);
+                    top: 42px;
+                    right: 0%;
+                    bottom: 7.14%;
+                    transform: matrix(1, 0, 0, -1, 0, 0);
+                }
+            }
+
+            .card-a:hover {
+                background-color: #FFF4DF;
+            }
+
+
+            .card-b {
+                position: absolute;
+                width: 689px;
+                height: 92px;
+                left: 39px;
+                top: 4000px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: calc(50% - 16px/2 + 300.5px);
+                    top: calc(50% - 8px/2);
+                    right: 0%;
+                    bottom: 7.14%;
+                }
+            }
+
+            .card-b:hover {
+                background-color: #FFF4DF;
+            }
+
+            .card-c {
+                position: absolute;
+                width: 689px;
+                height: 92px;
+                left: 39px;
+                top: 4100px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: calc(50% - 16px/2 + 300.5px);
+                    top: calc(50% - 8px/2);
+                    right: 0%;
+                    bottom: 7.14%;
+                }
+            }
+
+            .card-c:hover {
+                background-color: #FFF4DF;
+            }
+        }
+
+        .card11 {
+            h3 {
+                position: absolute;
+                width: 350px;
+                height: 48px;
+                left: 209px;
+                top: 4237px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 40px;
+                line-height: 48px;
+                /* identical to box height, or 120% */
+
+                text-align: center;
+                letter-spacing: -1.78571px;
+
+                color: #495567;
+            }
+
+            .card-a {
+                position: absolute;
+                width: 689px;
+                height: 192px;
+                left: 39px;
+                top: 4317px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+                p {
+                    position: absolute;
+                    width: 650px;
+                    height: 75px;
+                    left: 40px;
+                    top: 84px;
+
+                    font-family: 'Lexend Deca';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 15px;
+                    line-height: 25px;
+                    /* or 167% */
+
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: 641px;
+                    right: 0%;
+                    top: 40px;
+                    bottom: 7.14%;
+                    transform: matrix(1, 0, 0, -1, 0, 0);
+                }
+            }
+
+            .card-a:hover {
+                background-color: #FFF4DF;
+            }
+
+
+            .card-b {
+                position: absolute;
+                width: 689px;
+                height: 92px;
+                left: 39px;
+                top: 4524px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: 641px;
+                    right: 0%;
+                    top: 40px;
+                    bottom: 7.14%;
+                }
+            }
+
+            .card-b:hover {
+                background-color: #FFF4DF;
+            }
+
+            .card-c {
+                position: absolute;
+                width: 689px;
+                height: 92px;
+                left: 39px;
+                top: 4632px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: 641px;
+                    right: 0%;
+                    top: 40px;
+                    bottom: 7.14%;
+                }
+            }
+
+            .card-c:hover {
+                background-color: #FFF4DF;
+            }
+        }
+
+    }
+
+
+
+
+
+}
+
+@media screen and (max-width: 375px) {
+    main {
+
+
+
+        .oltin_chiziq {
+            position: absolute;
+            width: 202.5px;
+            height: 12px;
+            left: 0.5px;
+            top: 349px;
+            background-color: $main-color;
+            display: none;
+        }
+
+        .scotter {
+            position: absolute;
+            width: 311px;
+            height: 120px;
+            left: 32px;
+            top: 179px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 40px;
+            line-height: 40px;
+            /* or 100% */
+
+            text-align: center;
+            letter-spacing: -1.78571px;
+
+            color: #FFFFFF;
+        }
+
+        .scoot {
+            position: absolute;
+            width: 311px;
+            height: 125px;
+            left: 32px;
+            top: 323px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+            text-align: center;
+
+            color: #FFFFFF;
+        }
+
+        .korsatkich {
+            position: absolute;
+            width: 447px;
+            height: 138px;
+            left: -290px;
+            top: 542px;
+
+        }
+
+        .moto {
+            position: absolute;
+            width: 378px;
+            height: 700px;
+            border-radius: 0px;
+
+            z-index: -1;
+        }
+
+        .moto-btn {
+            position: absolute;
+            width: 180px;
+            height: 50px;
+            background-color: $main-color;
+            border: 1px solid $main-color;
+            left: 96px;
+            top: 488px;
+        }
+
+        .moto-btn:hover {
+            background-color: #fff;
+            color: $main-color;
+            cursor: pointer;
+        }
+
+        .kulrang {
+            position: absolute;
+            width: 20px;
+            height: 550px;
+            left: 141px;
+            top: 850px;
+
+            background-color: $light_grey;
+            display: none;
+        }
+
+        .oltin_doira {
+            width: 96px;
+            height: 96px;
+            background-color: $main-color;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            -o-border-radius: 50%;
+            position: absolute;
+            width: 56px;
+            height: 56px;
+            left: 160px;
+            top: 834px;
+
+            img {
+                width: 22px;
+                position: relative;
+                left: 20px;
+                top: 10px;
+            }
+        }
+
+        .joy {
+
+            left: 160px;
+            top: 1114px;
+
+            img {
+                top: 15px;
+            }
+        }
+
+        .lash {
+            left: 160px;
+            top: 1394px;
+
+            img {
+                top: 15px;
+            }
+        }
+
+        .card1 {
+            h4 {
+                position: absolute;
+                width: 311px;
+                height: 28px;
+                left: 32px;
+                top: 914px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 20px;
+                line-height: 28px;
+                /* identical to box height, or 140% */
+
+                text-align: center;
+                letter-spacing: -0.892857px;
+
+                color: #495567;
+
+            }
+
+            p {
+                position: absolute;
+                width: 311px;
+                height: 100px;
+                left: 32px;
+                top: 966px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+
+            }
+        }
+
+        .card3 {
+            h4 {
+                position: absolute;
+                width: 311px;
+                height: 28px;
+                left: 32px;
+                top: 1474px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 20px;
+                line-height: 28px;
+                /* identical to box height, or 140% */
+
+                text-align: center;
+                letter-spacing: -0.892857px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 311px;
+                height: 100px;
+                left: 32px;
+                top: 1526px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+            }
+        }
+
+        .card2 {
+            h4 {
+                position: absolute;
+                width: 311px;
+                height: 28px;
+                left: 32px;
+                top: 1194px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 20px;
+                line-height: 28px;
+                /* identical to box height, or 140% */
+
+                text-align: center;
+                letter-spacing: -0.892857px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 311px;
+                height: 100px;
+                left: 32px;
+                top: 1246px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+
+            }
+        }
+
+        .card4 {
+            h2 {
+                position: absolute;
+                width: 311px;
+                height: 64px;
+                left: 32px;
+                top: 2113px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 32px;
+                line-height: 32px;
+                /* or 100% */
+
+                text-align: center;
+                letter-spacing: -1.42857px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 311px;
+                height: 150px;
+                left: 32px;
+                top: 2209px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+            }
+
+            button {
+                width: 180px;
+                height: 50px;
+                background-color: $main-color;
+                position: absolute;
+                top: 2391px;
+                left: 98px;
+                border: 1px solid $main-color;
+            }
+
+            button:hover {
+                background-color: #fff;
+                color: $main-color;
+                cursor: pointer;
+            }
+        }
+
+        .qimirlatamiz {
+            .bola {
+                position: absolute;
+
+                left: 25px;
+                top: 1800px;
+                width: 300px;
+                height: 300px;
+                border-radius: 50%;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                -ms-border-radius: 50%;
+                -o-border-radius: 50%;
+                animation-delay: 500s;
+            }
+
+
+            .kor {
+                position: absolute;
+                height: 150.44px;
+                left: 77px;
+                top: 1950px;
+            }
+        }
+
+
+        .card5 {
+            h2 {
+                position: absolute;
+                width: 311px;
+                height: 64px;
+                left: 32px;
+                top: 2931px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 32px;
+                line-height: 32px;
+                /* or 100% */
+
+                text-align: center;
+                letter-spacing: -1.42857px;
+
+                color: #495567;
+
+            }
+
+            p {
+                position: absolute;
+                width: 311px;
+                height: 150px;
+                left: 32px;
+                top: 3027px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+            }
+
+            button {
+                width: 180px;
+                height: 50px;
+                background-color: $main-color;
+                position: absolute;
+                top: 3209px;
+                left: 98px;
+                border: 1px solid $main-color;
+            }
+
+            button:hover {
+                background-color: #fff;
+                color: $main-color;
+                cursor: pointer;
+            }
+        }
+
+
+        .qimirlatamiz2 {
+            .kocha {
+                position: absolute;
+
+                width: 300px;
+                height: 300px;
+                left: 28px;
+                top: 2600px;
+                border-radius: 50%;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                -ms-border-radius: 50%;
+                -o-border-radius: 50%;
+                animation-delay: 500s;
+
+            }
+
+            .kors {
+                position: absolute;
+                width: 735px;
+                height: 138px;
+                left: -385px;
+                top: 3000px;
+            }
+
+
+
+        }
+
+
+
+
+
+        .card6 {
+            h2 {
+                position: absolute;
+                width: 311px;
+                height: 64px;
+                left: 32px;
+                top: 3749px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 32px;
+                line-height: 32px;
+                /* or 100% */
+
+                text-align: center;
+                letter-spacing: -1.42857px;
+
+                color: #495567;
+
+            }
+
+            p {
+                position: absolute;
+                width: 311px;
+                height: 150px;
+                left: 32px;
+                top: 3845px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+            }
+
+            button {
+                width: 180px;
+                height: 50px;
+                background-color: $main-color;
+                position: absolute;
+                top: 4027px;
+                left: 98px;
+                border: 1px solid $main-color;
+            }
+
+            button:hover {
+                background-color: #fff;
+                color: $main-color;
+                cursor: pointer;
+            }
+        }
+
+
+
+        .qimirlatamiz3 {
+            .hamyon {
+                position: absolute;
+
+                left: 0px;
+                top: 3382px;
+                width: 398px;
+                height: 358px;
+                border-radius: 50%;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                -ms-border-radius: 50%;
+                -o-border-radius: 50%;
+                animation-iteration-count: 2;
+                animation-direction: normal;
+                animation-fill-mode: forwards;
+                animation-name: rasmqimilla3;
+                animation-timing-function: linear;
+                animation-duration: 30s;
+                animation-delay: 500s;
+            }
+
+
+
+
+            .korsa {
+                position: absolute;
+                width: 740.06px;
+                height: 150.44px;
+                left: 419px;
+                top: 3200px;
+            }
+        }
+
+        .about {
+            position: relative;
+            top: 60px;
+        }
+
+
+        .card7 {
+            h3 {
+                position: absolute;
+                width: 445px;
+                height: 96px;
+                left: 165px;
+                top: 541px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 48px;
+                /* or 100% */
+
+                letter-spacing: -2.14286px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 445px;
+                height: 75px;
+                left: 165px;
+                top: 681px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #939CAA;
+            }
+
+            img {
+                position: absolute;
+                width: 580px;
+                height: 345px;
+                left: 805px;
+                top: 450px;
+            }
+        }
+
+        .card8 {
+            h3 {
+                position: absolute;
+                width: 445px;
+                height: 96px;
+                left: 830px;
+                top: 1106px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 48px;
+                /* or 100% */
+
+                letter-spacing: -2.14286px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 445px;
+                height: 75px;
+                left: 830px;
+                top: 1246px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #939CAA;
+            }
+
+            img {
+                position: absolute;
+                width: 520px;
+                height: 345px;
+                left: 0px;
+                top: 1050px;
+            }
+        }
+
+        h2 {
+            position: absolute;
+            width: 540px;
+            height: 48px;
+            left: 450px;
+            top: 1546px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 48px;
+            /* identical to box height, or 100% */
+
+            text-align: center;
+            letter-spacing: -2.14286px;
+
+            color: #495567;
+        }
+
+        .card9 {
+            img {
+                position: absolute;
+                width: 350px;
+                height: 350px;
+                left: 165px;
+                top: 1642px;
+            }
+
+            h3 {
+                position: absolute;
+                width: 350px;
+                height: 28px;
+                left: 165px;
+                top: 2024px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                /* identical to box height, or 117% */
+
+                text-align: center;
+                letter-spacing: -1.07143px;
+
+                color: #495567;
+            }
+
+            p {
+                position: absolute;
+                width: 350px;
+                height: 75px;
+                left: 165px;
+                top: 2079px;
+
+                font-family: 'Lexend Deca';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+                text-align: center;
+
+                color: #939CAA;
+
+            }
+        }
+
+        .left {
+            img {
+                left: 562px;
+            }
+
+            h3 {
+                left: 545px;
+            }
+
+            p {
+                left: 545px;
+            }
+
+        }
+
+        .right {
+            img {
+                left: 962px;
+            }
+
+            h3 {
+                left: 925px;
+            }
+
+            p {
+                left: 925px;
+            }
+        }
+
+        .faqs {
+            text-align: center;
+            margin-top: 2000px;
+        }
+
+        .card10 {
+            h3 {
+                position: absolute;
+                width: 350px;
+                height: 48px;
+                left: 165px;
+                top: 2386px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 40px;
+                line-height: 48px;
+                /* identical to box height, or 120% */
+
+                letter-spacing: -1.78571px;
+
+                color: #495567;
+            }
+
+            .card-a {
+                position: absolute;
+                width: 730px;
+                height: 192px;
+                left: 545px;
+                top: 2386px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+                p {
+                    position: absolute;
+                    width: 650px;
+                    height: 75px;
+                    left: 40px;
+                    top: 84px;
+
+                    font-family: 'Lexend Deca';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 15px;
+                    line-height: 25px;
+                    /* or 167% */
+
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: 674px;
+                    right: 0%;
+                    top: 40px;
+                    bottom: 7.14%;
+                    transform: matrix(1, 0, 0, -1, 0, 0);
+                }
+            }
+
+            .card-a:hover {
+                background-color: #FFF4DF;
+            }
+
+
+            .card-b {
+                position: absolute;
+                width: 730px;
+                height: 92px;
+                left: 545px;
+                top: 2593px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: 674px;
+                    right: 0%;
+                    top: 40px;
+                    bottom: 7.14%;
+                }
+            }
+
+            .card-b:hover {
+                background-color: #FFF4DF;
+            }
+
+            .card-c {
+                position: absolute;
+                width: 730px;
+                height: 92px;
+                left: 545px;
+                top: 2701px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: 674px;
+                    right: 0%;
+                    top: 40px;
+                    bottom: 7.14%;
+                }
+            }
+
+            .card-c:hover {
+                background-color: #FFF4DF;
+            }
+        }
+
+        .card11 {
+            h3 {
+                position: absolute;
+                width: 350px;
+                height: 48px;
+                left: 165px;
+                top: 2857px;
+
+                font-family: 'Space Mono';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 40px;
+                line-height: 48px;
+                /* identical to box height, or 120% */
+
+                letter-spacing: -1.78571px;
+
+                color: #495567;
+            }
+
+            .card-a {
+                position: absolute;
+                width: 730px;
+                height: 192px;
+                left: 545px;
+                top: 2857px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+                p {
+                    position: absolute;
+                    width: 650px;
+                    height: 75px;
+                    left: 40px;
+                    top: 84px;
+
+                    font-family: 'Lexend Deca';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 15px;
+                    line-height: 25px;
+                    /* or 167% */
+
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: 674px;
+                    right: 0%;
+                    top: 40px;
+                    bottom: 7.14%;
+                    transform: matrix(1, 0, 0, -1, 0, 0);
+                }
+            }
+
+            .card-a:hover {
+                background-color: #FFF4DF;
+            }
+
+
+            .card-b {
+                position: absolute;
+                width: 730px;
+                height: 92px;
+                left: 545px;
+                top: 3064px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: 674px;
+                    right: 0%;
+                    top: 40px;
+                    bottom: 7.14%;
+                }
+            }
+
+            .card-b:hover {
+                background-color: #FFF4DF;
+            }
+
+            .card-c {
+                position: absolute;
+                width: 730px;
+                height: 92px;
+                left: 545px;
+                top: 3172px;
+
+                background: #d5e7fe;
+                overflow: hidden;
+
+                h4 {
+                    position: relative;
+                    height: 28px;
+                    left: 40px;
+                    right: 45.23%;
+                    top: 32px;
+
+                    font-family: 'Space Mono';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 24px;
+                    line-height: 28px;
+                    /* identical to box height, or 117% */
+
+                    letter-spacing: -1.07143px;
+
+                    color: #495567;
+                }
+
+
+                .joylash {
+                    position: absolute;
+                    left: 674px;
+                    right: 0%;
+                    top: 40px;
+                    bottom: 7.14%;
+                }
+            }
+
+            .card-c:hover {
+                background-color: #FFF4DF;
+            }
+        }
+
+    }
+
+}

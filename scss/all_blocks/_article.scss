@@ -1,0 +1,80 @@
+article {
+    width: 100%;
+    margin: 0 auto;
+    .locat{
+        position: absolute;
+        top: 60px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+
+    .dunyo {
+        position: absolute;
+        width: 80%;
+        height: 40%;
+        height: 543px;
+        left: 164px;
+        top: 416px;
+        margin: 0 auto;
+
+    }
+
+    .your {
+        position: absolute;
+        width: 351px;
+        height: 96px;
+        left: 164px;
+        top: 1081px;
+        margin: 0 auto;
+
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 48px;
+        margin: 0 auto;
+        /* or 100% */
+
+        letter-spacing: -2.14286px;
+
+        color: #495567;
+    }
+
+    .if {
+        position: absolute;
+        width: 445px;
+        height: 100px;
+        left: 545px;
+        top: 1100px;
+        margin: 0 auto;
+
+        font-family: 'Lexend Deca';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        /* or 167% */
+
+
+        color: #939CAA;
+    }
+    button {
+        width: 180px;
+        height: 50px;
+        background-color: $main-color;
+        position: absolute;
+        top: 1150px;
+        left: 1095px;
+        border: 1px solid $main-color;
+        color: #fff;
+        margin: 0 auto;
+    }
+
+    button:hover {
+        background-color: #fff;
+        color: $main-color;
+        cursor: pointer;
+        margin: 0 auto;
+    }
+}

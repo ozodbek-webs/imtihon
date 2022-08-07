@@ -1,0 +1,244 @@
+aside {
+    .careers {
+        width: 1440px;
+        margin: 0 auto;
+        margin-top: 60px;
+    }
+
+    .card1 {
+        h1 {
+            position: absolute;
+            width: 445px;
+            height: 96px;
+            left: 165px;
+            top: 482px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 48px;
+            /* or 100% */
+
+            letter-spacing: -2.14286px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 445px;
+            height: 100px;
+            left: 165px;
+            top: 602px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #939CAA;
+        }
+
+        button {
+            width: 180px;
+            height: 50px;
+            background-color: $main-color;
+            position: absolute;
+            top: 742px;
+            left: 165px;
+            border: 1px solid $main-color;
+        }
+
+        button:hover {
+            background-color: #fff;
+            color: $main-color;
+            cursor: pointer;
+        }
+
+        .group {
+            position: absolute;
+            width: 700px;
+            height: 445px;
+            left: 705px;
+            top: 416px;
+        }
+    }
+
+    .why {
+        text-align: center;
+        font-family: 'Space Mono';
+        color: #495567;
+        margin-top: 951px;
+    }
+
+    .card9 {
+        img {
+            position: absolute;
+            width: 350px;
+            height: 350px;
+            left: 165px;
+            top: 1300px;
+        }
+
+        h3 {
+            position: absolute;
+            width: 350px;
+            height: 28px;
+            left: 165px;
+            top: 1659px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 28px;
+            /* identical to box height, or 117% */
+
+            text-align: center;
+            letter-spacing: -1.07143px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            width: 350px;
+            height: 75px;
+            left: 165px;
+            top: 1700px;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+            text-align: center;
+
+            color: #939CAA;
+
+        }
+    }
+
+    .left {
+        img {
+            left: 562px;
+        }
+
+        h3 {
+            left: 545px;
+        }
+
+        p {
+            left: 545px;
+        }
+
+    }
+
+    .right {
+        img {
+            left: 962px;
+        }
+
+        h3 {
+            left: 925px;
+        }
+
+        p {
+            left: 925px;
+        }
+    }
+
+    .card2 {
+        position: absolute;
+        width: 1110px;
+        height: 128px;
+        left: 165px;
+        top: 2000px;
+
+        background: #F2F5F9;
+
+
+        h3 {
+            position: relative;
+            height: 28px;
+            left: 40px;
+            right: 68.31%;
+            top: 10px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 28px;
+            /* identical to box height, or 117% */
+
+            letter-spacing: -1.07143px;
+
+            color: #495567;
+        }
+
+        p {
+            position: absolute;
+            left: 40px;
+            right: 0%;
+            top: 48;
+            bottom: 0%;
+
+            font-family: 'Lexend Deca';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 25px;
+            /* identical to box height, or 167% */
+
+
+            color: #495567;
+        }
+
+        button {
+            width: 180px;
+            height: 50px;
+            background-color: $main-color;
+            position: absolute;
+            top: 38px;
+            left: 866px;
+            border: 1px solid $main-color;
+            font-family: 'Space Mono';
+        }
+
+        button:hover {
+            background-color: #fff;
+            color: $main-color;
+            cursor: pointer;
+        }
+
+        
+    }
+    .joy {
+        left: 165px;
+        top: 2152px;
+    }
+    .joyl {
+        left: 165px;
+        top: 2304px;
+    }
+    .joyla {
+        left: 165px;
+        top: 2456px;
+    }
+    .joylas {
+        left: 165px;
+        top: 2610px;
+    }
+    .joylash {
+        left: 165px;
+        top: 2762px;
+    }
+
+}

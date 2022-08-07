@@ -1,0 +1,227 @@
+.header {
+    width: 100%;
+    height: 80px;
+    margin: 0 auto;
+    position: fixed;
+    background-color: #fff;
+    z-index: 3;
+
+
+    .gamburger_menu {
+        
+        
+
+
+        #menu__toggle {
+            opacity: 0;
+        }
+
+        #menu__toggle:checked+.menu__btn>span {
+            transform: rotate(45deg);
+        }
+
+        #menu__toggle:checked+.menu__btn>span::before {
+            top: 0;
+            transform: rotate(0deg);
+        }
+
+        #menu__toggle:checked+.menu__btn>span::after {
+            top: 0;
+            transform: rotate(90deg);
+        }
+
+        #menu__toggle:checked~.menu__box {
+            left: 0 !important;
+        }
+
+        .menu__btn {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            width: 26px;
+            height: 26px;
+            cursor: pointer;
+            z-index: 1;
+        }
+
+        .menu__btn>span,
+        .menu__btn>span::before,
+        .menu__btn>span::after {
+            display: block;
+            position: absolute;
+            width: 100%;
+            height: 2px;
+            background-color: #616161;
+            transition-duration: .25s;
+        }
+
+        .menu__btn>span::before {
+            content: '';
+            top: 8px;
+        }
+
+        .menu__btn>span::after {
+            content: '';
+            top: -8px;
+        }
+
+        .menu__box {
+            display: block;
+            position: fixed;
+            top: 0;
+            left: -100%;
+            width: 300px;
+            height: 100%;
+            margin: 0;
+            padding: 80px 0;
+            list-style: none;
+            background-color: #ECEFF1;
+            box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
+            transition-duration: .25s;
+        }
+
+        .menu__item {
+            display: block;
+            padding: 12px 24px;
+            color: #333;
+            font-family: 'Roboto', sans-serif;
+            font-size: 20px;
+            font-weight: 600;
+            text-decoration: none;
+            transition-duration: .25s;
+        }
+
+        .menu__item:hover {
+            background-color: #CFD8DC;
+        }
+
+    }
+
+    nav {
+        margin-top: -40px;
+        margin-left: 120px;
+        width: 40%;
+        display: flex;
+        justify-content: space-between;
+
+
+        .brand {
+            margin-top: 10px;
+        }
+
+
+        .list {
+            margin-top: 15px;
+            display: flex;
+            width: 70%;
+            justify-content: space-around;
+            list-style-type: none;
+
+            .item {
+                .link {
+                    text-decoration: none;
+                    color: $text-color;
+                }
+
+                .link:hover {
+                    color: #FCB72B;
+                }
+
+            }
+        }
+
+        button {
+            width: 170px;
+            height: 50px;
+            position: absolute;
+            left: 75%;
+            background: #FCB72B;
+            color: #fff;
+            border: 1px solid #FCB72B;
+        }
+
+        button:hover {
+            background-color: #fff;
+            color: $main-color;
+            cursor: pointer;
+        }
+    }
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .gamburger_menu{
+        display: none;
+    }
+    
+    .brand {
+        position: absolute;
+        width: 107.82px;
+        height: 28.56px;
+        left: 39px;
+        top: 20px;
+    }
+
+    .link {
+        position: absolute;
+        height: 25px;
+        left: 205px;
+        right: 81.53%;
+        top: 25px;
+
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 25px;
+        /* identical to box height, or 167% */
+
+
+        color: #939CAA;
+
+    }
+    button{
+        margin-top: 50px;
+    }
+
+    .le {
+        left: 283px;
+    }
+
+    .lef {
+        left: 389px;
+    }
+
+
+}
+
+@media screen and (max-width: 375px) {
+    header {
+        background-color: rgb(255, 0, 0);
+        height: 0px;
+
+
+        .gamburger_menu {
+            width: 10%;
+            margin: 0 auto;
+            position: absolute;
+            top: 20px;
+            display: block;
+            opacity: 1;
+        }
+
+        .nav {
+            display: none;
+        }
+
+        .brand {
+            position: absolute;
+            width: 75.5px;
+            height: 20px;
+            left: 150px;
+            top: 10px;
+
+        }
+    }
+}
